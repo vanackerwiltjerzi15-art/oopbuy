@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Kakobuy Spreadsheet Guide',
   description: 'Your ultimate guide to Kakobuy spreadsheets for cross-border e-commerce',
-  base: '/',
+  base: '/oopbuy/',
   lang: 'en-US',
   lastUpdated: true,
   cleanUrls: true,
